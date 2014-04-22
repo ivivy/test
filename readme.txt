@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 b1 distributed
 b1b1mmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 master master
+branch branch
